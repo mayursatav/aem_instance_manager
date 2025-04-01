@@ -54,6 +54,4 @@ I created this tool for my personal use because I was facing a lot of issues mai
 ### Who do I talk to? ###
 
 	- Mayur Satav
-	- mayur.satav@bounteous.com
-	- +91 8600100441
 	- www.mayursatav.in
