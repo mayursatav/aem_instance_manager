@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="aem_instance_manager",
-    version="0.2",
+    version="0.3",
     author="Mayur Satav",
     author_email="mayursatav9@gmail.com",
     description="An AEM instance management tool designed to simplify switching across multiple project environments.",
