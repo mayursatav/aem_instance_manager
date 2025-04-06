@@ -187,8 +187,7 @@ class ProjectManagerApp:
             publishPath= os.path.join(folder_path,"publish")
             authorJar = self.print_jar_files_in_folder(authorPath)
             publishJar = self.print_jar_files_in_folder(publishPath)
-            print (authorJar)
-            print (publishJar)
+
             # Check if the author and publish ports are already in use
             if self.is_port_in_use(author_port) or self.is_port_in_use(publish_port):
                 self.display_messages(f"another project already using both {author_port} and {publish_port} ports")

@@ -1,18 +1,17 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="aem-instance-manager",
-    version="0.1.0",
-    author="Your Name",
-    author_email="your-email@example.com",
-    description="AEM Projects Instance Manager",
+    name="aem_instance_manager",
+    version="0.2",
+    author="Mayur Satav",
+    author_email="mayursatav9@gmail.com",
+    description="An AEM instance management tool designed to simplify switching across multiple project environments.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/aem-instance-manager",
+    url="https://github.com/mayursatav/aem-instance-manager",
     packages=find_packages(),
     install_requires=[
-        "pandas",
-        "tkinter"
+        "pandas"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
