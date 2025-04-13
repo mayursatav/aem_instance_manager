@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: aem_instance_manager
-Version: 0.2
+Version: 0.4
 Summary: An AEM instance management tool designed to simplify switching across multiple project environments.
 Home-page: https://github.com/mayursatav/aem-instance-manager
 Author: Mayur Satav

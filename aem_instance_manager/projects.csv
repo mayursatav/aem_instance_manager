@@ -1,3 +1,10 @@
 Project Name,Author Port,Publish Port,Status,Folder Path
-Project 1,4502,4503,Running,/Users/mayur.satav/Desktop/Globant/AEM/otherNc/FinalNightcap
+Project 1,4502,4503,Stopped,/Users/mayur.satav/Desktop/Globant/AEM/otherNc/FinalNightcap
 Project 2,4602,4603,Stopped,/Users/mayur/Desktop/aem/project2
+test,45033,3424,Stopped,/Users/mayur.satav/Desktop/Mayur/all-in-one-tools
+nc,4502,4503,Running,/Users/mayur.satav/Desktop/Globant/AEM/freshNC/
+test,12313,131,Stopped,/Users/mayur/Desktop/mayur/
+newtest,231,132,Stopped,/Users/mayur/Desktop/mayur/
+12Test,123,123,Stopped,/Users/mayur/Desktop/Mayur/
+newmayur,2131,1312,Stopped,/Users/mayur.satav/Desktop/Mayur/
+Globant,1234,3212,Stopped,/Users/mayur.satav/Desktop/Globant/
