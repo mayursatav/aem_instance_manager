@@ -104,7 +104,7 @@ class ProjectManagerApp:
         self.project_dropdown.bind("<<ComboboxSelected>>", self.display_project_details)
 
         # Footer Label
-        self.footer_label = ttk.Label(root, text="Created by Mayur Satav                   www.mayursatav.in                   Version v0.4", anchor="center", font=("Helvetica", 9), foreground="gray")
+        self.footer_label = ttk.Label(root, text="Created by Mayur Satav                   www.mayursatav.in                   Version v0.6", anchor="center", font=("Helvetica", 9), foreground="gray")
         self.footer_label.grid(row=1, column=0, columnspan=2, pady=5, sticky="ew")
     
     def display_messages(self, message):

@@ -39,9 +39,21 @@ To function properly, aem-instance-manager needs the following input details:
 | Folder Path | project folder path (e.g. /Users/mayur/Desktop/aem/project1) |
 
 ## 🚀 Usage
+
+In Mac
+
+Setup for macOS Terminal
+```
+export PATH="$HOME/Library/Python/3.13/bin:$PATH"
+export PATH="/Library/Frameworks/Python.framework/Versions/3.13/bin:$PATH"
+```
+Then apply the changes:
+```
+source ~/.zshrc
+```
 Once installed, you can launch the CLI tool with:
 ```
-aem_instance_manager
+aem-instance-manager
 ```
 Or directly using Python:
 ```
